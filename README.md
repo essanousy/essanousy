@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Crafting efficient and elegant solutions since 2012<br>📚 Currently diving deeper into <strong>Power Platform</strong> and <strong>Azure Functions</strong><br>🎯 Goals: Deliver innovative, high-quality solutions and mentor junior developers<br>🎲 Fun fact: I love solving complex problems as much as I enjoy playing video games 🎲!</p>
+<p align="left">✨ Crafting efficient and elegant solutions since 2012<br>🎯 Goals: Deliver innovative, high-quality solutions and mentor junior developers<br>🎲 Fun fact: I love solving complex problems as much as I enjoy playing video games 🎲!</p>
 
 ###
 
